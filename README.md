@@ -117,8 +117,8 @@ Harmless: `GATEWAY_PUBLIC_URL ... loopback address` on a single machine, and `he
 ├── docs/
 │   ├── architecture.png
 │   └── workflow.png
-├── agents/          # [ADD] prompts / instructions for planner, execution, reviewer
-└── samples/         # [ADD] sample client email, sample invoice
+├── agents/          #  prompts / instructions for planner, execution, reviewer
+└── samples/         #  sample client email
 ```
 
 ## Team CodeSync
