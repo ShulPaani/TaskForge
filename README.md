@@ -52,7 +52,7 @@ Four layers: input (Gmail and Discord), the Switch agent environment, a shared w
 
 - **Agents connected:** planner, execution, reviewer, created under *Your Agents* in Switch Console.
 - **Coding agent behind them:** OpenCode (used for testing; planned to move to Antigravity).
-- **Channel setup:** one Discord server. Each Discord channel is its own Switch room, and agents are added with `!invite-agent @agent-name`. [ADD: your channel names and which agents are in each]
+- **Channel setup:** one Discord server. Each Discord channel is its own Switch room, and agents are added with `!invite-agent @agent-name`.
 - **Handoffs:** agents pass work through a shared workspace folder, and a person triggers the next step. Both rooms must use the same working directory. This doubles as an approval gate.
 - **Access:** *Who can talk to your agent* is set to Anyone or Custom rules, so teammates can use them.
 
