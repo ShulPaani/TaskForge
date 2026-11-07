@@ -12,7 +12,7 @@ Client email in → plan → execution → review → your approval.
 
 **Team CodeSync** · Track: Best Business Workflow
 
-[DEMO VIDEO](https://youtu.be/royGJFflGsg?si=T_UdKx4GZVEaGPNh) · [BLOG POST](ADD_HASHNODE_LINK)
+[DEMO VIDEO](https://youtu.be/royGJFflGsg?si=T_UdKx4GZVEaGPNh) · [BLOG POST](https://codesync.hashnode.dev/setup-took-longer-than-the-agents-an-ai-team-for-freelancers-built-on-switch)
 
 
 
