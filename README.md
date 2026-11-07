@@ -77,7 +77,7 @@ Four layers: input (Gmail and Discord), the Switch agent environment, a shared w
 6. **Connect Discord to Switch.** Home → *Messaging apps* → *Connect* → *Discord*. Paste the bot token and Server ID.
 7. **Create the three agents** under *Your Agents* and set *Who can talk to your agent* to Anyone or Custom rules.
 8. **Create the rooms.** Post a message in each channel, then run `!invite-agent @agent-name` for each agent. Check with `!agents-status`.
-9. **Connect Google.** In Google Cloud Console enable the APIs you use (Gmail, Sheets). Under Google Auth Platform → Audience set user type to External and add your personal `@gmail.com` as a test user. Create an OAuth client of type **Web application**, leave JavaScript origins blank, and paste the Switch callback URL as the redirect URI. Sign in from Switch (Advanced → *Go to [App] (unsafe)* is expected in testing mode).
+9. **Connect Google.** In Google Cloud Console enable the APIs you use (Gmail, Sheets). Under Google Auth Platform → Audience set user type to External and add your personal `@gmail.com` as a test user. Create an OAuth client of type **Web application**, leave JavaScript origins blank, and paste the Switch callback URL as the redirect URI. Sign in from Switch (Advanced → *Go to [App] (unsafe)* is expected in testing mode)
 10. **Add the agent instructions** from [`/agents`](agents/) [ADD: folder with your three agent prompts], then send a test client email.
 
 ## Troubleshooting
